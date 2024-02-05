@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 72,
+    fontFamily: "Inter",
     color: "#9b4521",
   },
 });
