@@ -7,7 +7,7 @@ import {
   ActivityIndicator,
 } from "react-native";
 import { useFonts, Inter_900Black } from "@expo-google-fonts/inter";
-import DayListItem from "./src/Components/core/DayListItem";
+import DayListItem from "../Components/core/DayListItem";
 import { useEffect } from "react";
 // import * as SplashScreen from "expo-splash-screen";
 
